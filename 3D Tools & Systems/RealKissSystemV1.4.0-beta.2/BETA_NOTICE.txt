@@ -1,0 +1,5 @@
+このパッケージはベータ版です。動作にバグや不安定性がある場合がございます。
+This is beta package. You may encounter bug or unstability.
+
+何か問題が発生したらショップのメッセージやすーぱーねこやDiscordサーバー(https://discord.gg/Ect7MSebJ7)へお知らせください。
+If you found any problem, please report it via BOOTH or Discord Server(https://discord.gg/Ect7MSebJ7).
